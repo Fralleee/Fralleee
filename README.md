@@ -26,7 +26,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fralleee&show_icons=true&count_private=true&hide=issues,contribs&theme=react" alt="GitHub stats" />
 </div>
-
-<div align="center">
-  <a href="https://app.daily.dev/fralle"><img src="https://api.daily.dev/devcards/v2/x3kLYxJM8a8yb9LwVBuik.png?type=default&r=fli" width="356" alt="Roland's Dev Card"/></a>
-</div>
