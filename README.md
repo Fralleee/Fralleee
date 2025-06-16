@@ -26,5 +26,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fralleee&show_icons=true&count_private=true&hide=issues,contribs&theme=react" alt="GitHub stats" />
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Fralleee&theme=dark&mode=weekly&card_width=467&card_height=150)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Fralleee&theme=react&mode=weekly&card_width=467&card_height=150)](https://git.io/streak-stats)
 </div>
