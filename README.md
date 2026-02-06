@@ -15,10 +15,6 @@
 - 📄 **[Copy Content](https://marketplace.visualstudio.com/items?itemName=Fralle.copy-code-context)** - Copy context/structure for sharing in Markdown format.
 - 💫 **[Disney+ Unblur](https://chromewebstore.google.com/detail/disney+-unblur/epegomjmecdogfefcmadjkbinicbldmb)** - Remove the blur overlay that appears on video controls and subtitles on Disney+
 
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/Fralleee)
-
 
 ## Connect
 
