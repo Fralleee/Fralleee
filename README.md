@@ -13,7 +13,8 @@
 
 - 🧑‍🍳 **[Cooking with Fralle](https://cooking.fralle.net/en/)** - Find delicious recipes made by the master chef.
 - 📄 **[Copy Content](https://marketplace.visualstudio.com/items?itemName=Fralle.copy-code-context)** - Copy context/structure for sharing in Markdown format.
-- 💫 **[Disney+ Unblur](https://chromewebstore.google.com/detail/disney+-unblur/epegomjmecdogfefcmadjkbinicbldmb)** - Remove the blur overlay that appears on video controls and subtitles on Disney+
+- 💫 **[Disney+ Unblur](https://chromewebstore.google.com/detail/disney+-unblur/epegomjmecdogfefcmadjkbinicbldmb)** - Remove the blur overlay that appears on video controls and subtitles on Disney+.
+- 📸 **[ShotKit](https://shotkit.fralle.net/)** - Screenshot beautifier. Paste a screenshot, style it, copy it back.
 
 
 ## Connect
