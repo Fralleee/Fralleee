@@ -9,12 +9,14 @@
 
 ---
 
-## Current Projects
+## Projects
 
 - 🧑‍🍳 **[Cooking with Fralle](https://cooking.fralle.net/en/)** - Find delicious recipes made by the master chef.
-- 📄 **[Copy Content](https://marketplace.visualstudio.com/items?itemName=Fralle.copy-code-context)** - Copy context/structure for sharing in Markdown format.
-- 💫 **[Disney+ Unblur](https://chromewebstore.google.com/detail/disney+-unblur/epegomjmecdogfefcmadjkbinicbldmb)** - Remove the blur overlay that appears on video controls and subtitles on Disney+.
+- 📄 **[Copy Content](https://marketplace.visualstudio.com/items?itemName=Fralle.copy-code-context)** - VSCode extension to copy context/structure for sharing in Markdown format.
 - 📸 **[ShotKit](https://shotkit.fralle.net/)** - Screenshot beautifier. Paste a screenshot, style it, copy it back.
+- 🧠 **[Quiz Game](https://quiz.fralle.net/)** - Real-time multiplayer quiz with AI-generated questions. Create or join a game, pick a topic, and race for points.
+- 🖱️ **[Code Clicker](https://clicker.fralle.net/)** - Programming-themed idle game where every building you run generates tech debt that scales the production penalty.
+- 💫 **[Disney+ Unblur](https://chromewebstore.google.com/detail/disney+-unblur/epegomjmecdogfefcmadjkbinicbldmb)** - Remove the blur overlay that appears on video controls and subtitles on Disney+.
 
 
 ## Connect
