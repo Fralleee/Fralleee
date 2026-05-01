@@ -11,6 +11,7 @@
 
 ## Projects
 
+- 🤖 **[Agent Workflows](https://agent-workflows.fralle.net/)** - One-click GitHub App that runs daily AI bug-scans on your repos using Claude or GPT.
 - 🧑‍🍳 **[Cooking with Fralle](https://cooking.fralle.net/en/)** - Find delicious recipes made by the master chef.
 - 📄 **[Copy Content](https://marketplace.visualstudio.com/items?itemName=Fralle.copy-code-context)** - VSCode extension to copy context/structure for sharing in Markdown format.
 - 📸 **[ShotKit](https://shotkit.fralle.net/)** - Screenshot beautifier. Paste a screenshot, style it, copy it back.
